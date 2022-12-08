@@ -1,5 +1,5 @@
-# SCOPE-Exploit-Menu
-The menu for the SCOPE EXPLOIT.
+# SC0PEX
+The menu for the SC0PEX EXPLOIT.
 Use back, forward, and reload buttons on keyboard to control browser.
 
 [Google](https://google.com)
