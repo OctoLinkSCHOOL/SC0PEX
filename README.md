@@ -21,3 +21,5 @@ Use back, forward, and reload buttons on keyboard to control browser.
 [Roblox](https://mathsspot.com)
 
 [Disney+](https://disneyplus.com)
+
+[DATAURITEST](data: text/html, <script> window.open("https://gmail.com"); </script>)
